@@ -2,7 +2,18 @@
 
 I am a diligent software engineer and avid open source developer with over 5 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
+### My mission 🚀 
 
+- I am a software engineer with high aspirations and an entrepeneurial spirit  <br/>
+- I am currently working for Avalanche and HippoNotes    <br/>
+- Reach out to me if you need any small or large scale projects completed <br/>
+- Drop me a message on linkedin or send me an email <br/>
+
+### Always learning, Always growing 📚
+
+- I am always looking to aquire new skills and learn new things <br/>
+- I am currently working on internalising fundamental software engineering concepts <br/>
+- I have a deep interest in everything AI <br/>
 
 ## Favorite Saying 👍
 
