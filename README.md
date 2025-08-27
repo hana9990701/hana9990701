@@ -1,13 +1,13 @@
 # 👋 Welcome to my github page! <br />
 
-I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+I am a diligent software engineer and avid open source developer with over 5 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
 
 
 ## Favorite Saying 👍
 
 ```rust
-/// Texora's motto
+/// Hnanko's motto
 struct LinusTorvalds;
 
 impl LinusTorvalds {
